@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kknd5050\\projects\\CS\\nest-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9E2437-5BFB-9A43-C87E-3299CB365464}|nest-app.esproj|c:\\users\\kknd5050\\projects\\cs\\nest-app\\src\\cats\\cats.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC9E2437-5BFB-9A43-C87E-3299CB365464}|nest-app.esproj|solutionrelative:src\\cats\\cats.controller.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9E2437-5BFB-9A43-C87E-3299CB365464}|nest-app.esproj|c:\\users\\kknd5050\\projects\\cs\\nest-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC9E2437-5BFB-9A43-C87E-3299CB365464}|nest-app.esproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9E2437-5BFB-9A43-C87E-3299CB365464}|nest-app.esproj|c:\\users\\kknd5050\\projects\\cs\\nest-app\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC9E2437-5BFB-9A43-C87E-3299CB365464}|nest-app.esproj|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9E2437-5BFB-9A43-C87E-3299CB365464}|nest-app.esproj|c:\\users\\kknd5050\\projects\\cs\\nest-app\\src\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EC9E2437-5BFB-9A43-C87E-3299CB365464}|nest-app.esproj|solutionrelative:src\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cats.controller.ts",
+              "DocumentMoniker": "C:\\Users\\kknd5050\\projects\\CS\\nest-app\\src\\cats\\cats.controller.ts",
+              "RelativeDocumentMoniker": "src\\cats\\cats.controller.ts",
+              "ToolTip": "C:\\Users\\kknd5050\\projects\\CS\\nest-app\\src\\cats\\cats.controller.ts",
+              "RelativeToolTip": "src\\cats\\cats.controller.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-18T08:25:51.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\kknd5050\\projects\\CS\\nest-app\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\kknd5050\\projects\\CS\\nest-app\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T08:16:41.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\kknd5050\\projects\\CS\\nest-app\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "C:\\Users\\kknd5050\\projects\\CS\\nest-app\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-18T08:15:48.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\kknd5050\\projects\\CS\\nest-app\\src\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app.module.ts",
+              "ToolTip": "C:\\Users\\kknd5050\\projects\\CS\\nest-app\\src\\app.module.ts",
+              "RelativeToolTip": "src\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-18T08:15:41.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
